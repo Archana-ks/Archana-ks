@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-  <h2>Hey everyone 👋, I'm <a href="https://archanakportfolio.netlify.app/">Archana</a></h2>
+  <h2 align="center">Hey everyone 👋, I'm <a href="https://archanakportfolio.netlify.app/">Archana K</a></h2>
 🔭 I’m currently learning MERN-Full stack development<br>👯 I’m looking to collaborate on FSD-related projects, building websites.<br>
 📫 How to reach me archanak24krishnan@gmail.com<br>💬 Ask me about JavaScript, React, Node<br>⚡ Always be positive
 
@@ -106,16 +106,10 @@
 
 </p>
    
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Archana-ks&theme=city_light&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Archana-ks&theme=city_light&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Archana-ks&theme=city_light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Archana-ks&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Archana-ks&limit=5&theme=dark&combine_all_yearly_contributions=true)

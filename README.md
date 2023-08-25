@@ -4,6 +4,9 @@
 
 # 💫 About Me:
   <h2 align="center">Hey everyone 👋, I'm <a href="https://archanakportfolio.netlify.app/">Archana K</a></h2>
+
+  <h2 align="center" text="bold">I'm excited about creating meaningful web applications and open to collaboration and learning opportunities. Let's connect and build amazing things together! 🤝 </h2>
+
 🔭 I’m currently learning MERN-Full stack development<br>👯 I’m looking to collaborate on FSD-related projects, building websites.<br>
 📫 How to reach me archanak24krishnan@gmail.com<br>💬 Ask me about JavaScript, React, Node<br>⚡ Always be positive
 

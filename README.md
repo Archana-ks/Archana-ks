@@ -6,11 +6,12 @@
   <h2 align="center">Hey everyone 👋, I'm <a href="https://archanakportfolio.netlify.app/">Archana K</a></h2>
 
   <h2 align="center" text="bold">I'm excited about creating meaningful web applications and open to collaboration and learning opportunities. Let's connect and build amazing things together! 🤝 </h2>
+  <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
 
 🔭 I’m currently learning MERN-Full stack development<br><br>👯 I’m looking to collaborate on FSD-related projects, building websites.<br><br>
-📫 How to reach me archanak24krishnan@gmail.com<br<br>💬 Ask me about JavaScript, React, Node<br><br>⚡ Always be positive
+📫 How to reach me archanak24krishnan@gmail.com<br><br>💬 Ask me about JavaScript, React, Node<br><br>⚡ Always be positive
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 ## 🌐 Socials:
 <p><a href="https://https://archanakportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-portfolio-4E69C8?style=for-the-badge&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>  <a href="https://www.linkedin.com/in/archana-k-22927a281/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> </p>
